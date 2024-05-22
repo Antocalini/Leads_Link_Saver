@@ -5,4 +5,6 @@ npm install
 npm start
 ```
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
+This is a basic browser extension project to save links for leads on your localStorage using HTML, CSS and Javascript.
+
+Have fun using it! 
